@@ -1,3 +1,4 @@
 # shiv-demo
 This is my first git repository
-Author - Shivprasad Patil
+<br>
+<b>Author - Shivprasad Patil </b>
